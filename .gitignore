@@ -1,0 +1,10 @@
+resultados/log.html
+resultados/output.xml
+resultados/report.html
+resultados/*.png
+resultados/*.log
+/*png
+/report.html
+/output.xml
+/log.html
+/package-lock.json
